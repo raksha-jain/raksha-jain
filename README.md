@@ -6,3 +6,6 @@ https://www.kaggle.com/rakshajain
 
 ### CodeChef
 https://www.codechef.com/users/raksha_jain
+
+### GeeksforGeeks
+https://auth.geeksforgeeks.org/user/rakshajain/profile
