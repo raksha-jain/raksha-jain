@@ -1,11 +1,11 @@
 ### Hi there 👋
 I am Raksha, a passionate and creative developer from INDIA with a strong interest in Machine Learning and Cloud-Native technologies.
 
-### Kaggle profile 
+##### 1. Kaggle profile 
 https://www.kaggle.com/rakshajain
 
-### CodeChef
+##### 2. CodeChef
 https://www.codechef.com/users/raksha_jain
 
-### GeeksforGeeks
+##### 3. GeeksforGeeks
 https://auth.geeksforgeeks.org/user/rakshajain/profile
