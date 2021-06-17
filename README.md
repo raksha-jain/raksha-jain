@@ -5,7 +5,5 @@ I am Raksha, a passionate and creative developer from INDIA with a strong intere
 
 ##### 2. CodeChef - https://www.codechef.com/users/raksha_jain
 
-##### 3. GeeksforGeeks - https://auth.geeksforgeeks.org/user/rakshajain/profile
-
 #### Contact Me
-##### LinkedIN - https://www.linkedin.com/in/jainraksha/
+###### LinkedIN - https://www.linkedin.com/in/jainraksha/
