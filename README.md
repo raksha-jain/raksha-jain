@@ -1,6 +1,6 @@
 # Raksha Jain
 
-### Data Scientist | Analytics Enthusiast | Machine Learning Practitioner
+### Data Scientist 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/rakshajain)
 [![Email](https://img.shields.io/badge/Email-rakshajain511%40gmail.com-red)](mailto:rakshajain511@gmail.com)
@@ -8,31 +8,35 @@
 ---
 
 ## About Me
-
-Data Scientist with over 3 years of experience, having sound knowledge of developing advanced analytical solutions. I have worked on developing customer analytics solutions for Fuel Retail clients. I am skilled in the application of statistical analysis and machine learning techniques to provide analytics solutions. I have experience working with Python, PySpark, SQL, Excel, Qlik Sense, and Power BI.
+### Hi there 👋
+I am Raksha, a passionate and creative Data Scientist from India with a strong interest in Machine Learning and Cloud-Native technologies. With over 3 years of experience, I specialize in developing advanced analytical solutions, automating processes, and delivering data-driven insights. I have expertise in Python, PySpark, SQL, and various data analysis techniques. I thrive on solving complex data challenges and providing actionable recommendations.
 
 ### Skills
+<p align="center">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logoColor=white" alt="Machine Learning"/>
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+    <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
+    <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL"/>
+    <img src="https://img.shields.io/badge/Data%20Visualization-4B8BBE?style=for-the-badge&logo=data-visualization&logoColor=white" alt="Data Visualization"/>
+    <img src="https://img.shields.io/badge/Data%20Analysis-3776AB?style=for-the-badge&logo=data-analysis&logoColor=white" alt="Data Analysis"/>
+</p>
 
-#### Tools and Technologies
-- Python
-- Machine Learning
-- Cloud (AWS, Azure)
-- SQL
-- Data Visualization
-- Data Analysis
-
-#### Skills Highlights
-- Critical Thinking
-- Analytical Skills
+### Soft Skills
+<p align="center">
+    <img src="https://img.shields.io/badge/Critical%20Thinking-FF6F00?style=for-the-badge&logoColor=white" alt="Critical Thinking"/>
+    <img src="https://img.shields.io/badge/Analytical%20Skills-0078D4?style=for-the-badge&logoColor=white" alt="Analytical Skills"/>
+    <img src="https://img.shields.io/badge/Communication-4CAF50?style=for-the-badge&logoColor=white" alt="Communication"/>
+    <img src="https://img.shields.io/badge/Problem%20Solving-E91E63?style=for-the-badge&logoColor=white" alt="Problem Solving"/>
+    <img src="https://img.shields.io/badge/Teamwork-FFC107?style=for-the-badge&logoColor=white" alt="Teamwork"/>
+    <img src="https://img.shields.io/badge/Adaptability-FF9800?style=for-the-badge&logoColor=white" alt="Adaptability"/>
+</p>
 
 ### Certifications
-- **Azure Data Engineering Associate (DP-203)**
-- **AWS Certified Developer Associate (DVA-C01)**
-
-### Education
-**B.E. Computer Science Engineering**  
-GGITS, RGPV University  
-**CGPA:** 8.03 (2016 - 2020)
+<p align="center">
+    <img src="https://img.shields.io/badge/Azure%20Data%20Engineering%20Associate%20(DP-203)-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Data Engineering Associate"/>
+    <img src="https://img.shields.io/badge/AWS%20Certified%20Developer%20Associate%20(DVA-C01)-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified Developer Associate"/>
+</p>
 
 ### Work Experience
 
