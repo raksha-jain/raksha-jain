@@ -17,7 +17,7 @@ I am Raksha, a passionate and creative Data Scientist from India with a strong i
     <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logoColor=white" alt="Machine Learning"/>
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
     <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
-    <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL"/>
+    <img src="https://iconscout.com/lottie-animation/sql-database-10063830" alt="SQL" style="width: 50px; height: 50px;"/>
     <img src="https://img.shields.io/badge/Data%20Visualization-4B8BBE?style=for-the-badge&logo=data-visualization&logoColor=white" alt="Data Visualization"/>
     <img src="https://img.shields.io/badge/Data%20Analysis-3776AB?style=for-the-badge&logo=data-analysis&logoColor=white" alt="Data Analysis"/>
 </p>
