@@ -11,7 +11,7 @@ I am constantly seeking opportunities to expand my knowledge and stay updated wi
 <p align="left">
     <img src="https://lordicon.com/icons/wired/outline/1322-python-code-language.gif" alt="Python" style="width: 100px; height: 100px;"/>
     <img src="https://images.creativefabrica.com/products/700x/c37d302f-2e07-4115-b65f-c8d00b5e5463/1826621-7.jpg" alt="Machine Learning" style="width: 100px; height: 100px;"/>
-    <img src="https://raw.githubusercontent.com/shrey6162/AWS/main/aws.png" alt="AWS" style="width: 100px; height: 100px;"/>
+    <img src="https://tenor.com/view/aws-gif-19699711" alt="AWS" style="width: 100px; height: 100px;"/>
     <img src="https://cdn.dribbble.com/users/528264/screenshots/10765125/media/8b2b28c63e70f79c766b7e9ac9b8cfb4.png" alt="Azure" style="width: 100px; height: 100px;"/>
     <img src="https://cdnl.iconscout.com/lottie/premium/thumb/sql-file-document-9353048-7650402.gif" alt="SQL" style="width: 100px; height: 100px;"/>
 </p>
