@@ -13,11 +13,11 @@ I am Raksha, a passionate and creative Data Scientist from India with a strong i
 
 ### Skills
 <p align="center">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://lordicon.com/icons/wired/outline/1322-python-code-language.gif" alt="Python" style="width: 150px; height: 150px;"/>
     <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logoColor=white" alt="Machine Learning"/>
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-    <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
-    <img src="https://iconscout.com/lottie-animation/sql-database-10063830" alt="SQL" style="width: 50px; height: 50px;"/>
+    <img src="https://www.dribbble.com/shots/10765125-Microsoft-Azure-Logo" alt="Azure" style="width: 150px; height: 150px;"/>
+    <img src="https://cdnl.iconscout.com/lottie/premium/thumb/sql-file-document-9353048-7650402.gif" alt="SQL" style="width: 150px; height: 150px;"/>
     <img src="https://img.shields.io/badge/Data%20Visualization-4B8BBE?style=for-the-badge&logo=data-visualization&logoColor=white" alt="Data Visualization"/>
     <img src="https://img.shields.io/badge/Data%20Analysis-3776AB?style=for-the-badge&logo=data-analysis&logoColor=white" alt="Data Analysis"/>
 </p>
