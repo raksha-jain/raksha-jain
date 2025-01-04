@@ -18,6 +18,6 @@ I am constantly seeking opportunities to expand my knowledge and stay updated wi
 
 ### 📬 How to reach me?
 
-- Visit my [website](https://www.linkedin.com/in/rakshajain) 🌐
+- Visit my [website](https://raksha-jain.github.io/raksha-jain/) 🌐
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/jainraksha) 👩‍💻
 - Shoot me an [Email](mailto:rakshajain511@gmail.com) 📧
