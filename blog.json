@@ -1,20 +1,20 @@
 [
   {
     "url_title": "Open-AI",
-    "title": "Chat bot ☸️ 🚀",
-    "sub_title": "Kubernetes Application Delivery Framework",
+    "title": "Coffee Chat bot ☸️ 🚀",
+    "sub_title": "An intelligent chatbot capable of automating coffee orders, providing personalized coffee recommendations",
     "visible": true
    },
   {
     "url_title": "PowerBI",
     "title": "Power BI",
-    "sub_title": "A Terraform module for hosting your own runner for CI/CD on Digital Ocean to run jobs in your GitHub Actions workflows. 🚀",
+    "sub_title": "Retail Data Analysis 🚀",
     "visible": true
    },
    {
     "url_title": "Machine-Learning",
     "title": "Machine Learning",
-    "sub_title": "A Go client library for accessing the Public API of India's biggest cryptocurrency exchange WazirX.com.",
+    "sub_title": " ",
     "visible": true
    }
 ]
