@@ -1,19 +1,19 @@
 [
   {
-    "url_title": "Open AI",
-    "title": "Ketch - CNCF Landscape Project ☸️ 🚀",
+    "url_title": "Open-AI",
+    "title": "Chat bot ☸️ 🚀",
     "sub_title": "Kubernetes Application Delivery Framework",
     "visible": true
    },
   {
-    "url_title": "Power BI",
-    "title": "DoAct",
+    "url_title": "PowerBI",
+    "title": "Power BI",
     "sub_title": "A Terraform module for hosting your own runner for CI/CD on Digital Ocean to run jobs in your GitHub Actions workflows. 🚀",
     "visible": true
    },
    {
-    "url_title": "QlikSense",
-    "title": "Go-WazirX",
+    "url_title": "Machine-Learning",
+    "title": "Machine Learning",
     "sub_title": "A Go client library for accessing the Public API of India's biggest cryptocurrency exchange WazirX.com.",
     "visible": true
    }
