@@ -3,19 +3,21 @@
     "url_title": "Open-AI",
     "title": "Coffee Chat bot ☸️ 🚀",
     "sub_title": "An intelligent chatbot capable of automating coffee orders, providing personalized coffee recommendations",
-    "top_image": "coffee chat bot.jpg",
+    "top_image": "coffee_chat_bot.jpg",
     "visible": true
    },
   {
     "url_title": "PowerBI",
     "title": "Power BI",
     "sub_title": "Retail Data Analysis 🚀",
-    "visible": false
+    "top_image": "Power_BI_Report.jpg",
+    "visible": true
    },
    {
     "url_title": "Machine-Learning",
     "title": "Machine Learning",
     "sub_title": " ",
-    "visible": false
+     "top_image": "machine_learning.jpg",
+    "visible": true
    }
 ]
