@@ -9,12 +9,12 @@
     "url_title": "PowerBI",
     "title": "Power BI",
     "sub_title": "Retail Data Analysis 🚀",
-    "visible": true
+    "visible": false
    },
    {
     "url_title": "Machine-Learning",
     "title": "Machine Learning",
     "sub_title": " ",
-    "visible": true
+    "visible": false
    }
 ]
