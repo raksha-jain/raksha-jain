@@ -7,23 +7,23 @@
     "visible": true
    },
   {
+    "url_title": "PowerBI",
+    "title": "Power BI",
+    "sub_title": "Power BI dashboards using retail, financial, and operational data to deliver actionable insights. Leveraged advanced DAX functions and data modeling to drive business decisions and improve performance metrics.",
+    "top_image": "pbi_project.jpg",
+    "visible": true
+   },
+  {
     "url_title": "Machine-Learning",
     "title": "Machine Learning",
     "sub_title": "Machine learning projects undertaken to understand and master various ML concepts. Each project reflects commitment to applying theoretical knowledge to practical scenarios, demonstrating proficiency in machine learning techniques and tools. ",
      "top_image": "mllogo.png",
     "visible": true
    },
-  {
-    "url_title": "PowerBI",
-    "title": "Power BI",
-    "sub_title": "Retail Data Analysis",
-    "top_image": "pbi_project.jpg",
-    "visible": true
-   },
    {
     "url_title": "Text Encryption-Decryption system",
     "title": "Text Encryption/Decryption System",
-    "sub_title": " ",
+    "sub_title": "A Python application for text encryption and decryption using cryptographic libraries like cryptography and hashlib. Implemented secure algorithms to encode and decode text, ensuring data confidentiality and integrity.",
      "top_image": "asymmetric-encryption.png",
     "visible": true
    }
