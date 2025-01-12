@@ -1,7 +1,7 @@
 [
   {
     "url_title": "Open-AI",
-    "title": "Coffee Chat bot ☸️ 🚀",
+    "title": "Coffee Chat bot",
     "sub_title": "An intelligent chatbot capable of automating coffee orders, providing personalized coffee recommendations",
     "top_image": "coffee_chat_bot.jpg",
     "visible": true
@@ -9,14 +9,14 @@
   {
     "url_title": "Machine-Learning",
     "title": "Machine Learning",
-    "sub_title": " ",
+    "sub_title": "Machine learning projects undertaken to understand and master various ML concepts. Each project reflects commitment to applying theoretical knowledge to practical scenarios, demonstrating proficiency in machine learning techniques and tools. ",
      "top_image": "mllogo.png",
     "visible": true
    },
   {
     "url_title": "PowerBI",
     "title": "Power BI",
-    "sub_title": "Retail Data Analysis 🚀",
+    "sub_title": "Retail Data Analysis",
     "top_image": "pbi_project.jpg",
     "visible": true
    },
