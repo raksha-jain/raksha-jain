@@ -7,6 +7,13 @@
     "visible": true
    },
   {
+    "url_title": "Machine-Learning",
+    "title": "Machine Learning",
+    "sub_title": " ",
+     "top_image": "mllogo.png",
+    "visible": true
+   },
+  {
     "url_title": "PowerBI",
     "title": "Power BI",
     "sub_title": "Retail Data Analysis 🚀",
@@ -14,10 +21,10 @@
     "visible": true
    },
    {
-    "url_title": "Machine-Learning",
-    "title": "Machine Learning",
+    "url_title": "Text_Encryption_Decryption_System",
+    "title": "Text Encryption/Decryption System",
     "sub_title": " ",
-     "top_image": "mllogo.png",
+     "top_image": "asymmetric-encryption.png",
     "visible": true
    }
 ]
