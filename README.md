@@ -1,6 +1,8 @@
 ### Hi there 👋
 I am Raksha, a passionate and creative Data Scientist from India with a strong interest in Machine Learning and Cloud-Native technologies. With over 3 years of experience, I specialize in developing advanced analytical solutions that drive business value and insights.
 
+![Raksha's github stats](https://github-readme-stats.vercel.app/api?username=raksha-jain&hide=issues&show_icons=true&theme=onedark)
+
 Throughout my career, I have worked on various projects, ranging from customer analytics solutions for Fuel Retail clients to building comprehensive Power BI dashboards for a leading Global Oil and Gas company. My expertise lies in the application of statistical analysis and machine learning techniques, along with extensive experience in Python, PySpark, SQL, Excel, Qlik Sense, and Power BI.
 
 As a dedicated professional, I have a proven track record of automating manual processes, enhancing productivity through insightful dashboards, and delivering data-driven recommendations to stakeholders. My analytical mindset and strong problem-solving skills enable me to tackle complex data challenges and uncover actionable insights.
